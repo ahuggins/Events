@@ -6,7 +6,7 @@
 		<meta charset="utf-8" />
 		<title>
 			@section('title')
-			Laravel 4 Sample Site
+			Events
 			@show
 		</title>
 		<meta name="keywords" content="your, awesome, keywords, here" />
@@ -101,7 +101,7 @@
 
 	    <div id="footer">
 	      <div class="container">
-	        <p class="muted credit">Laravel 4 Starter Site on <a href="https://github.com/andrew13/Laravel-4-Bootstrap-Starter-Site">Github</a>.</p>
+	        <p class="muted credit">Event Starter Site on <a href="https://github.com/ahuggins/Events">Github</a>.</p>
 	      </div>
 	    </div>
 
