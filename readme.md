@@ -12,4 +12,3 @@ Secret project...do not steal please.
 * Pick front end template and set up with Blade templating engine
 * Create Seeder Data (Events & Users & Venues)
 * Build Out Static Views
-* Test SSH key
